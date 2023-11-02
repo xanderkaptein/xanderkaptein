@@ -5,9 +5,9 @@
 
 <h2> // About me </h2>
 
--  I am a student at the **Bit Academy**\
--  Currently focussing on developing my data-engineering skills\
--  Seeking to become a **Data scientist**\
+-  I am a student at the **Bit Academy**
+-  Currently focussing on developing my data-engineering skills
+-  Seeking to become a **Data scientist**
 -  I like videogames, music and chess!
 
 <details>
