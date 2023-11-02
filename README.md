@@ -14,10 +14,10 @@
 <summary> Connect with me </summary>
 <br>
   <a href="mailto:xander.kaptein@gmail.com" >
-    <img align="center" alt="Gmail | Gmail" src="https://img.shields.io/badge/-Gmail-5e4330?logo=Gmail&logoColor=white&style=for-the-badge" />
+    <img align="center" alt="Gmail | Gmail" src="https://img.shields.io/badge/-Gmail-37a779?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/xander-kaptein-355b85280/" >
-    <img align="center" alt="Gmail | Gmail" src="https://img.shields.io/badge/-Linkedin-5e4330?logo=Linkedin&logoColor=white&style=for-the-badge" />
+    <img align="center" alt="Gmail | Gmail" src="https://img.shields.io/badge/-Linkedin-37a779?style=for-the-badge" />
   </a>
 </details>
 </details>
